@@ -1,0 +1,6 @@
+/* To style the placeholder */
+input::placeholder {
+  color: #c41f1f; /* lighter grey */
+  opacity: 1; /* fix opacity on some browsers */
+  font-style: italic;
+}
